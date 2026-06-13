@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Eissa Almannaei</title>
+    <meta name="robots" content="noindex" />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem("NEXT_LOCALE");
+          var cookie = (document.cookie.match(/(?:^|;\s*)NEXT_LOCALE=(en|ar)/) || [])[1];
+          var nav = (navigator.languages && navigator.languages[0]) || navigator.language || "en";
+          var pref = saved || cookie || (nav.toLowerCase().indexOf("ar") === 0 ? "ar" : "en");
+          var locale = pref === "ar" ? "ar" : "en";
+          location.replace("/" + locale + "/");
+        } catch (e) {
+          location.replace("/en/");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <p>Choose your language / اختر لغتك:</p>
+      <p><a href="/en/">English</a> · <a href="/ar/">العربية</a></p>
+    </noscript>
+  </body>
+</html>

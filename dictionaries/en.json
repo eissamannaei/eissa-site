@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "title": "Eissa Almannaei — AI Researcher & Expert",
+    "description": "Eissa Almannaei is an AI researcher and expert on a mission to empower every Emirati to build the future with AI and agentic AI."
+  },
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "eyebrow": "AI Researcher & Expert",
+    "title": "Empowering every Emirati to build the future with AI.",
+    "subtitle": "I research, teach, and build agentic AI — turning frontier technology into practical capability for people, institutions, and the nation.",
+    "ctaPrimary": "Get in touch",
+    "ctaSecondary": "View work",
+    "available": "Available for talks, training & consulting"
+  },
+  "partners": {
+    "eyebrow": "Trusted by",
+    "title": "Partners in the mission",
+    "stat1": "50+ workshops & programs delivered",
+    "stat2": "16+ government, academic & private institutions"
+  },
+  "vision": {
+    "eyebrow": "The mission",
+    "statement": "I believe every person can unleash their ambition for the future using AI. My mission is to empower every Emirati to understand, trust, and build with AI and agentic AI — turning today's frontier into tomorrow's everyday capability."
+  },
+  "expertise": {
+    "eyebrow": "What I do",
+    "title": "Expertise across the AI stack",
+    "intro": "From the strategy room to the agent runtime — research, training, and hands-on building.",
+    "items": [
+      { "name": "LLM Agents", "desc": "Designing and building autonomous, tool-using AI agents." },
+      { "name": "Building with AI", "desc": "Turning ideas into working products with AI at the core." },
+      { "name": "Agentic AI", "desc": "The mindset and architecture of AI that acts on your behalf." },
+      { "name": "Sovereign AI", "desc": "National capability, data, and infrastructure independence." },
+      { "name": "Trustworthy AI", "desc": "Safety, transparency, and accountability by design." },
+      { "name": "Sustainable AI", "desc": "Efficient, responsible AI for the long term." },
+      { "name": "Business Intelligence", "desc": "Decisions driven by data and insight." },
+      { "name": "Business Analytics", "desc": "Turning numbers into strategy and action." },
+      { "name": "Big Data", "desc": "Working with data at scale, end to end." },
+      { "name": "Data Centers", "desc": "The compute foundation behind modern AI." },
+      { "name": "Public Speaking", "desc": "Making complex AI clear, useful, and inspiring." }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Work",
+    "title": "Agents I've built",
+    "intro": "Real, working AI agents — most built for an Arabic-first context.",
+    "viewAll": "See all work",
+    "live": "Live",
+    "prototype": "Prototype",
+    "items": [
+      {
+        "name": "Contract Status Checker",
+        "status": "Live",
+        "desc": "An AI agent that audits 1,000+ contracts for attachment completeness, reads scanned documents with OCR, and flags every gap automatically.",
+        "tags": ["LLM Agents", "OCR", "Automation"]
+      },
+      {
+        "name": "RASSED AI Monitor",
+        "status": "Live",
+        "desc": "An autonomous agent that tracks global AI news around the clock and publishes a daily, design-ready Arabic PDF briefing.",
+        "tags": ["Agentic AI", "Arabic", "Reporting"]
+      },
+      {
+        "name": "AI Research Monitor",
+        "status": "Live",
+        "desc": "A deep-research agent that compiles frontier AI developments into a bilingual, RTL dashboard with streamed insights and exportable PDF reports.",
+        "tags": ["Deep Research", "RTL Dashboard", "Streaming"]
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Work with me",
+    "title": "Consulting & training",
+    "intro": "Practical, measurable, and tailored to your context — in Arabic and English.",
+    "items": [
+      { "name": "AI Workshops", "desc": "Hands-on workshops that turn AI concepts into applied skills your team can use immediately." },
+      { "name": "Consulting & Digital Transformation", "desc": "Strategy and technical guidance to bring AI and agentic AI into your organization." },
+      { "name": "Government Training", "desc": "Tailored programs for government entities, grounded in the local context." },
+      { "name": "Corporate & Private Sector", "desc": "Custom training for companies ready to build real capability with AI." }
+    ]
+  },
+  "talks": {
+    "eyebrow": "Speaking",
+    "title": "Talks & sessions",
+    "intro": "Bringing AI to the stage — for institutions, universities, and the public.",
+    "items": [
+      { "name": "Sovereign AI & the Future of Technology", "context": "Keynote", "topic": "Digital sovereignty" },
+      { "name": "Agentic AI: Building Agents That Serve You", "context": "Workshop", "topic": "LLM Agents" },
+      { "name": "AI for Government: From Concept to Capability", "context": "Executive session", "topic": "Public sector" },
+      { "name": "Creativity × AI: A New Way to Build", "context": "Talk", "topic": "Building with AI" }
+    ]
+  },
+  "writing": {
+    "eyebrow": "Insights",
+    "title": "Writing & ideas",
+    "intro": "Notes on AI, agents, and the future we're building.",
+    "soon": "Coming soon",
+    "items": [
+      { "name": "Why every Emirati should learn agentic AI", "topic": "Agentic AI" },
+      { "name": "Trustworthy AI, in practice", "topic": "Trustworthy AI" },
+      { "name": "The sovereign AI imperative", "topic": "Sovereign AI" }
+    ]
+  },
+  "ctaBand": {
+    "title": "Let's build the future with AI.",
+    "subtitle": "Talks, training, consulting, or just a conversation — I'd love to hear from you.",
+    "button": "Get in touch"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Eissa Almannaei",
+    "role": "AI Researcher & Expert",
+    "lead": "I help people and institutions in the UAE and the Arab world understand and apply AI in a way that is practical, trustworthy, and genuinely empowering.",
+    "body": [
+      "I'm an AI researcher and expert focused on agentic AI — the systems that don't just answer, but act. My work spans research, public speaking, and building real AI agents, with a particular focus on the Arabic-first context.",
+      "I've delivered 50+ workshops and programs with government entities, universities, and companies across the UAE, translating complex technology into capability people can use the same day.",
+      "My mission is simple: empower every Emirati to build the future with AI. I believe everyone can unleash their ambition using these tools — and I'm here to make that real."
+    ],
+    "focusTitle": "Focus areas",
+    "speakingTitle": "On stage",
+    "speakingDesc": "I speak on sovereign AI, agentic AI, trustworthy AI, and building with AI — for institutions, universities, and the public."
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Let's talk.",
+    "lead": "Whether it's a talk, a training program, consulting, or a question — reach out and I'll get back to you.",
+    "emailLabel": "Email",
+    "instagramLabel": "Instagram",
+    "linkedinLabel": "LinkedIn",
+    "whatsappLabel": "WhatsApp",
+    "formName": "Your name",
+    "formEmail": "Your email",
+    "formMessage": "Your message",
+    "formSubmit": "Send message",
+    "formNote": "This opens your email app with the message ready to send."
+  },
+  "footer": {
+    "tagline": "Empowering every Emirati to build the future with AI.",
+    "rights": "All rights reserved.",
+    "navTitle": "Navigate",
+    "connectTitle": "Connect"
+  },
+  "langToggle": {
+    "label": "Language",
+    "switchTo": "العربية"
+  }
+}
