@@ -4,7 +4,7 @@ export const site = {
   email: "eissamannaei@gmail.com",
   social: {
     instagram: "https://www.instagram.com/eissaalmannaei",
-    linkedin: "https://www.linkedin.com/in/eissa-almannaei",
+    linkedin: "https://www.linkedin.com/in/eissa-almannaei-2788bb155",
     whatsapp: "https://wa.me/971569441119",
   },
 };
