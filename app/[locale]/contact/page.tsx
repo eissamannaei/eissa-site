@@ -45,9 +45,9 @@ export default async function ContactPage({
                 rel="noopener noreferrer"
                 aria-label={m.label}
                 title={m.label}
-                className="group flex h-16 w-16 items-center justify-center rounded-sm border border-line bg-bg text-ink-soft transition-all duration-200 hover:-translate-y-0.5 hover:border-accent hover:text-accent"
+                className="group flex h-[68px] w-[68px] items-center justify-center rounded-sm border border-accent/30 bg-accent-tint text-accent shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-accent hover:bg-accent hover:text-on-accent hover:shadow-md"
               >
-                <m.Icon className="h-6 w-6" />
+                <m.Icon className="h-7 w-7" strokeWidth={1.9} />
               </a>
             </li>
           ))}
